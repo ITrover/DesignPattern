@@ -2,6 +2,7 @@ package cn.itrover.designpattern.singleton.type4;
 
 /**
  * 枚举方式
+ * 饿汉式单例模式、在静态代码块给INSTANCE赋值
  * 注册式单例模式
  * 优点：
  *    线程安全
