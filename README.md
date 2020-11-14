@@ -12,3 +12,4 @@
 | [适配器模式](笔记/适配器模式.md) | [适配器模式代码](src/main/java/cn/itrover/designpattern/adpter) |2020/11/11  |
 | [桥接模式](笔记/桥接模式.md) | [桥接模式代码](src/main/java/cn/itrover/designpattern/bridge) |2020/11/14（补11/12日）  |
 | [装饰者模式](笔记/装饰者模式.md) | [装饰者模式代码](src/main/java/cn/itrover/designpattern/decorate) |2020/11/14（补11/13日）  |
+| [组合模式](笔记/装饰者模式.md) | [组合模式代码](src/main/java/cn/itrover/designpattern/composite) |2020/11/14  |
