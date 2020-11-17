@@ -3,3 +3,4 @@
 *.iml
 *.obj
 /target/
+/src/main/java/cn/itrover/designpattern/proxy/cglib/com.springsource.net.sf.cglib-2.2.0.jar

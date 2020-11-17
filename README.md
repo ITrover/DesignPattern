@@ -15,3 +15,4 @@
 | [组合模式](笔记/组合模式.md) | [组合模式代码](src/main/java/cn/itrover/designpattern/composite) |2020/11/14  |
 | [外观模式](笔记/外观模式.md) | [外观模式代码](src/main/java/cn/itrover/designpattern/facade) |2020/11/15 |
 | [享元模式](笔记/享元模式.md) | [享元模式代码](src/main/java/cn/itrover/designpattern/facade) |2020/11/16 |
+| [代理模式](笔记/代理模式.md) | [代理模式代码](src/main/java/cn/itrover/designpattern/facade) |2020/11/17 |
