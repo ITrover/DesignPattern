@@ -17,3 +17,4 @@
 | [享元模式](笔记/享元模式.md) | [享元模式代码](src/main/java/cn/itrover/designpattern/facade) |2020/11/16 |
 | [代理模式](笔记/代理模式.md) | [代理模式代码](src/main/java/cn/itrover/designpattern/facade) |2020/11/17 |
 | [模板方法模式](笔记/模板方法模式.md) | [模板方法模式代码](src/main/java/cn/itrover/designpattern/facade) |2020/11/18 |
+| [命令模式](笔记/命令模式.md) | [命令模式代码](src/main/java/cn/itrover/designpattern/facade) |2020/11/18 |
