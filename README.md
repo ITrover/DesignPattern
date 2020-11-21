@@ -19,3 +19,4 @@
 | [模板方法模式](笔记/模板方法模式.md) | [模板方法模式代码](src/main/java/cn/itrover/designpattern/template) |2020/11/18 |
 | [命令模式](笔记/命令模式.md) | [命令模式代码](src/main/java/cn/itrover/designpattern/command) |2020/11/19 |
 | [迭代器模式](笔记/迭代器模式.md) | [迭代器模式代码](src/main/java/cn/itrover/designpattern/iterator) |2020/11/20 |
+| [观察者模式](笔记/观察者模式.md) | [观察者模式代码](src/main/java/cn/itrover/designpattern/observer) |2020/11/21 |

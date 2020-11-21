@@ -7,6 +7,11 @@ package cn.itrover.designpattern.adpter.objectadpter;
 public class VoltageAdpter implements IVoltage5V {
 
     private Voltage220V voltage220V;
+
+    public VoltageAdpter(Voltage220V v) {
+        voltage220V = v;
+    }
+
     @Override
     public int output5v() {
         int dst = voltage220V.output220v() /44 ;
