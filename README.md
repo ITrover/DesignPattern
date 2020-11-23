@@ -21,3 +21,4 @@
 | [迭代器模式](笔记/迭代器模式.md) | [迭代器模式代码](src/main/java/cn/itrover/designpattern/iterator) |2020/11/20 |
 | [观察者模式](笔记/观察者模式.md) | [观察者模式代码](src/main/java/cn/itrover/designpattern/observer) |2020/11/21 |
 | [中介者模式](笔记/中介者模式.md) | [中介者模式代码](src/main/java/cn/itrover/designpattern/mediator) |2020/11/22 |
+| [备忘录模式](笔记/备忘录模式.md) | [备忘录模式代码](src/main/java/cn/itrover/designpattern/memento) |2020/11/23 |
