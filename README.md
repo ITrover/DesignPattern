@@ -24,3 +24,4 @@
 | [备忘录模式](笔记/备忘录模式.md) | [备忘录模式代码](src/main/java/cn/itrover/designpattern/memento) |2020/11/23 |
 | [解释器模式](笔记/解释器模式.md) | [解释器模式代码](src/main/java/cn/itrover/designpattern/interpreter) |2020/11/24 |
 | [状态模式](笔记/状态模式.md) | [状态模式代码](src/main/java/cn/itrover/designpattern/state) |2020/11/25 |
+| [责任链模式](笔记/责任链模式.md) | [责任链模式代码](src/main/java/cn/itrover/designpattern/state) |2020/11/27 |
